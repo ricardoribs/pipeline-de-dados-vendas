@@ -4,9 +4,7 @@ Este projeto demonstra a construção de um pipeline de dados completo, desde a 
 
 ## 📊 Dashboard Final
 
-![Dashboard de Vendas](https-i-imgur-com-your-image-url-png)
-*(Dica: Tire uma screenshot do seu dashboard, envie para um site como o [Imgur](https://imgur.com/upload) e cole o link da imagem aqui)*
-
+https://imgur.com/a/HNYuVSH
 ---
 
 ## 🛠️ Tecnologias Utilizadas
