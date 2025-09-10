@@ -1,0 +1,101 @@
+id_venda;nome_cliente;email_cliente;estado_cliente;nome_produto;categoria_produto;preco_produto;data_venda;quantidade
+1;Vitor Hugo Fernandes;thiago00@uol.com.br;DF;Duna;Ficção Científica;80.5;2024-05-23;2
+2;Matheus Castro;vitoria58@ramos.br;MG;Duna;Ficção Científica;80.5;2024-09-19;1
+3;Alícia Pires;bcastro@uol.com.br;BA;Fundamentos de SQL;Dados;60.0;2024-03-18;3
+4;Melissa da Luz;cunhabernardo@hotmail.com;PR;Senhor dos Anéis;Fantasia;120.0;2024-10-08;2
+5;Mirella Araújo;dsouza@hotmail.com;GO;O Guia do Mochileiro;Ficção Científica;42.0;2024-08-02;2
+6;Kaique da Mota;rochamelissa@hotmail.com;MG;Clean Code;Programação;110.0;2024-09-06;1
+7;Ana Laura Novaes;luiz-otavio88@ig.com.br;DF;Clean Code;Programação;110.0;2024-03-23;3
+8;Luiz Fernando da Rosa;pduarte@hotmail.com;MG;JavaScript Essencial;Programação;55.0;2024-07-11;2
+9;Alícia Rodrigues;da-rochaemanuella@moura.com;DF;Estatística Aplicada;Dados;70.0;2024-12-12;3
+10;Srta. Maria Alice Cardoso;yuri55@gmail.com;PE;Neuromancer;Ficção Científica;68.0;2024-02-08;2
+11;Yuri Lopes;aliciadias@gmail.com;PE;Clean Code;Programação;110.0;2024-01-03;1
+12;Agatha Cavalcanti;da-costaisabella@alves.com;SC;Senhor dos Anéis;Fantasia;120.0;2024-03-13;2
+13;Ryan Santos;fernandesmaria-clara@uol.com.br;SC;Neuromancer;Ficção Científica;68.0;2024-07-21;1
+14;Luana Vieira;pietra23@almeida.com;BA;Fundamentos de SQL;Dados;60.0;2024-07-15;3
+15;Vitor Hugo Barros;cecilia91@azevedo.net;BA;Fundamentos de SQL;Dados;60.0;2024-09-05;1
+16;Sra. Heloísa Moura;xpires@uol.com.br;SP;Estatística Aplicada;Dados;70.0;2024-03-25;3
+17;Heloísa Gonçalves;danielamoraes@uol.com.br;SC;Neuromancer;Ficção Científica;68.0;2024-09-16;2
+18;Lara Aragão;opeixoto@alves.org;SC;Neuromancer;Ficção Científica;68.0;2024-04-18;3
+19;Calebe Azevedo;peixotomaria-sophia@da.br;BA;Estatística Aplicada;Dados;70.0;2024-10-30;1
+20;Rodrigo Pires;zferreira@gmail.com;DF;O Guia do Mochileiro;Ficção Científica;42.0;2024-01-24;3
+21;Eduardo Cardoso;xmoura@barros.br;PE;O Guia do Mochileiro;Ficção Científica;42.0;2024-08-22;1
+22;Sarah Santos;freitasjoao-guilherme@ig.com.br;SC;Fundamentos de SQL;Dados;60.0;2024-04-02;3
+23;Otávio Duarte;ddas-neves@ribeiro.net;RS;Duna;Ficção Científica;80.5;2024-11-27;3
+24;Gustavo Henrique Jesus;steixeira@peixoto.br;BA;Clean Code;Programação;110.0;2024-08-11;1
+25;Valentina Novaes;henrique84@correia.com;PR;Estatística Aplicada;Dados;70.0;2024-12-26;1
+26;Vitória Lopes;azevedoclarice@hotmail.com;MG;JavaScript Essencial;Programação;55.0;2024-10-25;1
+27;Amanda Rezende;ana-vitoriadias@uol.com.br;RJ;Estatística Aplicada;Dados;70.0;2024-01-09;1
+28;Rebeca Moura;rezendeluiz-gustavo@uol.com.br;GO;Neuromancer;Ficção Científica;68.0;2024-03-28;1
+29;Srta. Letícia Rodrigues;luiza67@gmail.com;SP;Introdução ao Machine Learning;Dados;95.0;2024-05-27;2
+30;Helena Aragão;duarteamanda@gmail.com;RS;Clean Code;Programação;110.0;2024-08-25;2
+31;Laura Mendes;carolinemonteiro@freitas.net;RS;Fundamentos de SQL;Dados;60.0;2024-03-23;3
+32;Henrique Nogueira;limafernando@novaes.br;RJ;Duna;Ficção Científica;80.5;2024-01-03;1
+33;Isaac Sales;bianca33@yahoo.com.br;SP;Clean Code;Programação;110.0;2024-10-03;2
+34;Francisco Moraes;heloisaalves@gmail.com;BA;O Guia do Mochileiro;Ficção Científica;42.0;2024-10-19;2
+35;Lucas Gabriel Caldeira;flima@costa.net;DF;Neuromancer;Ficção Científica;68.0;2024-11-08;2
+36;Daniel da Conceição;amandajesus@bol.com.br;MG;Estatística Aplicada;Dados;70.0;2024-07-12;3
+37;Alice Rezende;martinscaue@gmail.com;PR;Introdução ao Machine Learning;Dados;95.0;2024-04-12;2
+38;Augusto Gomes;araujolucas@uol.com.br;PE;O Guia do Mochileiro;Ficção Científica;42.0;2024-04-28;1
+39;Vinicius da Paz;moreirakevin@bol.com.br;MG;Senhor dos Anéis;Fantasia;120.0;2024-06-14;2
+40;Dra. Bianca Gomes;enzo63@azevedo.net;MG;Senhor dos Anéis;Fantasia;120.0;2024-08-23;3
+41;Catarina Carvalho;murilorodrigues@gmail.com;SP;Estatística Aplicada;Dados;70.0;2024-10-27;2
+42;Srta. Isabelly Moreira;malmeida@ig.com.br;SP;Duna;Ficção Científica;80.5;2024-09-14;2
+43;Bárbara da Costa;jda-conceicao@da.br;PE;Senhor dos Anéis;Fantasia;120.0;2024-11-11;1
+44;Lucas Gabriel Martins;rodrigopereira@dias.br;PR;Estatística Aplicada;Dados;70.0;2024-08-27;1
+45;João Felipe da Cunha;augustoaragao@vieira.com;RS;Introdução ao Machine Learning;Dados;95.0;2024-06-15;3
+46;Lorenzo da Mota;mlopes@oliveira.br;RJ;Senhor dos Anéis;Fantasia;120.0;2024-09-29;1
+47;Kaique da Rocha;ana-laurapires@castro.br;SC;Fundamentos de SQL;Dados;60.0;2024-09-11;2
+48;Srta. Marcela Farias;oliveirafernando@hotmail.com;BA;Estatística Aplicada;Dados;70.0;2024-08-08;2
+49;Dr. Kaique Novaes;pereiraarthur@gmail.com;PE;Fundamentos de SQL;Dados;60.0;2024-08-05;2
+50;Srta. Caroline Campos;jpinto@hotmail.com;SP;Fundamentos de SQL;Dados;60.0;2024-03-14;3
+51;Lívia Nogueira;fernandoferreira@hotmail.com;GO;Fundamentos de SQL;Dados;60.0;2024-05-14;1
+52;Francisco Freitas;hcavalcanti@bol.com.br;SP;O Guia do Mochileiro;Ficção Científica;42.0;2024-12-08;1
+53;Sr. Erick Costela;barbosamarcos-vinicius@gmail.com;SP;Introdução ao Machine Learning;Dados;95.0;2024-06-24;2
+54;Leonardo Costa;wbarros@cavalcanti.com;GO;Fundamentos de SQL;Dados;60.0;2024-01-23;3
+55;Renan Aragão;nina60@nunes.br;PR;Fundamentos de SQL;Dados;60.0;2024-12-03;3
+56;Raquel Nunes;rebecajesus@moraes.br;SC;Senhor dos Anéis;Fantasia;120.0;2024-03-13;3
+57;Enzo Gomes;da-matabeatriz@bol.com.br;PE;O Guia do Mochileiro;Ficção Científica;42.0;2024-03-17;1
+58;Sarah Pinto;da-cunhamaria-vitoria@uol.com.br;DF;JavaScript Essencial;Programação;55.0;2024-04-19;3
+59;Helena Sales;usantos@hotmail.com;SP;Clean Code;Programação;110.0;2024-11-20;1
+60;Sra. Brenda Rezende;bbarbosa@bol.com.br;SC;Duna;Ficção Científica;80.5;2024-12-11;3
+61;Pedro da Costa;joanavieira@hotmail.com;GO;Python para Dados;Programação;75.0;2024-04-08;2
+62;Igor Carvalho;kevincorreia@vieira.net;BA;Fundamentos de SQL;Dados;60.0;2024-05-07;3
+63;Benjamin Novaes;kferreira@hotmail.com;BA;Clean Code;Programação;110.0;2024-05-17;2
+64;Theo Almeida;anafreitas@goncalves.com;SC;Python para Dados;Programação;75.0;2024-03-22;3
+65;Ana Julia Cardoso;costajoao-gabriel@uol.com.br;MG;JavaScript Essencial;Programação;55.0;2024-07-17;1
+66;Davi Lucca Lima;xda-cruz@ig.com.br;MG;Estatística Aplicada;Dados;70.0;2024-06-24;2
+67;Cecília Freitas;da-luzisabelly@freitas.br;DF;Duna;Ficção Científica;80.5;2024-09-10;3
+68;Sr. Diogo Oliveira;catarinacaldeira@das.br;PR;Fundamentos de SQL;Dados;60.0;2024-08-04;2
+69;Sr. Thomas Moreira;vitor-gabrielcosta@nascimento.br;RS;Introdução ao Machine Learning;Dados;95.0;2024-12-01;1
+70;Raquel Moraes;garaujo@lopes.com;BA;Clean Code;Programação;110.0;2024-03-02;1
+71;Benício Ribeiro;emanuelly43@gmail.com;PR;Clean Code;Programação;110.0;2024-10-09;2
+72;Fernanda Duarte;goliveira@castro.br;SC;Clean Code;Programação;110.0;2024-04-30;3
+73;Alice Duarte;wmonteiro@gomes.com;SP;Python para Dados;Programação;75.0;2024-02-05;2
+74;Sra. Bruna Pinto;davi-luccanascimento@gomes.org;BA;Neuromancer;Ficção Científica;68.0;2024-10-02;2
+75;Cauê Lopes;joana84@oliveira.net;SP;Fundamentos de SQL;Dados;60.0;2024-08-02;2
+76;Sr. Otávio da Cruz;yfarias@nunes.org;SC;Fundamentos de SQL;Dados;60.0;2024-04-20;2
+77;Lívia Rodrigues;milena03@melo.com;BA;Neuromancer;Ficção Científica;68.0;2024-07-06;1
+78;Catarina Souza;lara51@oliveira.br;RJ;Fundamentos de SQL;Dados;60.0;2024-02-11;3
+79;Clara Melo;clarice72@ig.com.br;RJ;Neuromancer;Ficção Científica;68.0;2024-05-17;2
+80;Dr. Rodrigo Lima;ucavalcanti@costa.com;RJ;Neuromancer;Ficção Científica;68.0;2024-12-14;2
+81;Sofia das Neves;camilaaragao@nascimento.br;GO;Fundamentos de SQL;Dados;60.0;2024-06-20;3
+82;Vicente Moreira;iazevedo@martins.com;PR;Introdução ao Machine Learning;Dados;95.0;2024-02-09;2
+83;Marcos Vinicius Jesus;scostela@silva.net;SP;Python para Dados;Programação;75.0;2024-02-25;3
+84;Igor Vieira;ksilva@caldeira.br;BA;Python para Dados;Programação;75.0;2024-08-12;2
+85;Manuela Azevedo;theo03@gmail.com;SC;Fundamentos de SQL;Dados;60.0;2024-07-05;3
+86;Pietra da Paz;clarafernandes@carvalho.br;PE;Duna;Ficção Científica;80.5;2024-01-27;3
+87;Marcelo Silva;da-motasophie@ig.com.br;SP;Duna;Ficção Científica;80.5;2024-08-22;3
+88;Nicolas Caldeira;raul16@duarte.br;RS;Introdução ao Machine Learning;Dados;95.0;2024-09-08;3
+89;Stephany da Costa;fernandovieira@nunes.com;SP;Senhor dos Anéis;Fantasia;120.0;2024-04-13;1
+90;Felipe Cardoso;da-conceicaomatheus@da.org;MG;Senhor dos Anéis;Fantasia;120.0;2024-10-18;3
+91;Ana Araújo;ufogaca@uol.com.br;GO;Estatística Aplicada;Dados;70.0;2024-05-10;2
+92;Maysa Viana;fernandesisabel@uol.com.br;BA;Estatística Aplicada;Dados;70.0;2024-08-22;3
+93;Luiz Otávio Moura;raulcosta@mendes.com;PR;Neuromancer;Ficção Científica;68.0;2024-10-14;1
+94;Bernardo da Mota;sda-paz@vieira.com;SC;Duna;Ficção Científica;80.5;2024-01-17;3
+95;Lucas Gabriel Barros;emanuel34@duarte.br;PE;Senhor dos Anéis;Fantasia;120.0;2024-04-13;3
+96;Alice Almeida;maria80@melo.br;PR;Senhor dos Anéis;Fantasia;120.0;2024-01-09;3
+97;Heloísa Fernandes;gabriel04@uol.com.br;SP;JavaScript Essencial;Programação;55.0;2024-04-05;2
+98;Igor Duarte;daniela12@ig.com.br;BA;Estatística Aplicada;Dados;70.0;2024-02-06;2
+99;Eduarda da Mota;erick85@bol.com.br;SC;Python para Dados;Programação;75.0;2024-01-17;1
+100;Pedro Lucas Silva;castrobrenda@araujo.org;BA;Introdução ao Machine Learning;Dados;95.0;2024-06-06;1

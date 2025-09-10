@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+
+# Bancos de dados
+*.db
+*.db-journal
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do dbt que não precisam ser versionados
+dbt_project/logs/
+dbt_project/target/
+
+# Arquivos do Streamlit
+.streamlit/

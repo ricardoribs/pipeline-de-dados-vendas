@@ -1,0 +1,30 @@
+[0m17:06:42.761929 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D04516F90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D078E5490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D07B5D890>]}
+
+
+============================== 17:06:42.772166 | 4281b79a-4bc3-47e9-910d-f3f54efb8644 ==============================
+[0m17:06:42.772166 [info ] [MainThread]: Running with dbt=1.10.11
+[0m17:06:42.772166 [debug] [MainThread]: running dbt with arguments {'partial_parse': 'True', 'write_json': 'True', 'send_anonymous_usage_stats': 'True', 'warn_error': 'None', 'cache_selected_only': 'False', 'target_path': 'None', 'version_check': 'True', 'invocation_command': 'dbt init dbt_project', 'log_format': 'default', 'use_colors': 'True', 'introspect': 'True', 'debug': 'False', 'printer_width': '80', 'fail_fast': 'False', 'no_print': 'None', 'quiet': 'False', 'use_experimental_parser': 'False', 'empty': 'None', 'log_cache_events': 'False', 'log_path': 'logs', 'indirect_selection': 'eager', 'profiles_dir': 'C:\\Users\\ricar\\.dbt', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True'}
+[0m17:06:42.879179 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\ricar\.dbt
+[0m17:06:42.889068 [debug] [MainThread]: Starter project path: C:\Users\ricar\meu_pipeline_de_dados\venv\Lib\site-packages\dbt\include\starter_project
+[0m17:06:43.155835 [info ] [MainThread]: 
+Your new dbt project "dbt_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:06:43.155835 [info ] [MainThread]: Setting up your profile.
+[0m17:07:29.132334 [info ] [MainThread]: Profile dbt_project written to C:\Users\ricar\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m17:07:29.176339 [debug] [MainThread]: Command `dbt init` succeeded at 17:07:29.175330 after 46.62 seconds
+[0m17:07:29.178718 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D00E208D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D010841D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D07B5C510>]}
+[0m17:07:29.181277 [debug] [MainThread]: Flushing usage events
+[0m17:07:31.633721 [debug] [MainThread]: An error was encountered while trying to flush usage events
